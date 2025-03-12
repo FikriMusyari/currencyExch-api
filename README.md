@@ -25,4 +25,4 @@ To get started with this template, clone the repository and run the following co
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-repo/currency-exchange.git
+   git clone https://github.com/FikriMusyari/currencyExch-api.git
